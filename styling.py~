@@ -1,0 +1,19 @@
+# colors.py
+
+# Define color constants
+PRIMARY_COLOR = "#3498db"  # blue
+SECONDARY_COLOR = "#f1c40f"  # orange
+BACKGROUND_COLOR = "#f9f9f9"  # light gray
+TEXT_COLOR = "#333333"  # dark gray
+
+# You can also define color schemes or palettes
+COLOR_SCHEMES = {
+    "light": {
+        "background": "#ffffff",
+        "text": "#000000"
+    },
+    "dark": {
+        "background": "#333333",
+        "text": "#ffffff"
+    }
+}
